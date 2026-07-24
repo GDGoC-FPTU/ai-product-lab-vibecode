@@ -1,3 +1,8 @@
+- Tên nhóm: vibecode
+- Thành viên: 
+  - Nguyễn Văn Hưng – 2A202601251
+  - Vũ Bình Minh – MSSV 2A202601295
+  - Lê Thị Thúy – MSSV 2A202601381
 # 01-problem-scan.md
 
 ## Phase 1 — SCAN
