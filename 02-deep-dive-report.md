@@ -1,7 +1,12 @@
 # 02 — Báo Cáo Phân Tích Sâu (Deep-Dive Report): Vin Smart Future
 
 ---
-
+- Tên nhóm: vibecode
+- Thành viên: 
+  - Nguyễn Văn Hưng – 2A202601251
+  - Vũ Bình Minh – MSSV 2A202601295
+  - Lê Thị Thúy – 2A202601381
+  - Trần Đức Mạnh - 2A202601567
 ## 👥 1. Thông Tin Nhóm Dự Án (Group Information)
 
 * **Tên nhóm:** Vin Smart Future - AI Dispatcher Team
